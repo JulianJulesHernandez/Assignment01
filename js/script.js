@@ -11,3 +11,18 @@
 // let currentMonth;
 // let summerMonth;
 // let myLibraryFunction;
+
+// STEP 2 Give me an example of a numeric literal expression, a string literal expression, a Boolean literal expression, and a 
+// null literal expression.
+
+// 9.5
+
+// 'Goodbye'
+
+// true
+
+// null
+
+
+
+
