@@ -12,7 +12,7 @@
 // let summerMonth;
 // let myLibraryFunction;
 
-// STEP 2 Give me an example of a numeric literal expression, a string literal expression, a Boolean literal expression, and a 
+// STEP 2 Give me an example of a numeric literal expression, a string literal expression, a Boolean literal expression, and a
 // null literal expression.
 
 // 9.5;
@@ -28,3 +28,25 @@
 // let z = x + y * 9;
 
 // let name = "Jules";
+
+// STEP 4 Declare (but do not assign) 9 variables for the following identifiers: First Name, Last Name, Address, City, State, Zip
+//Code, Your Age, Referral Source, May We Contact You. Use Camel Casing and Hungarian Notation when naming your
+//identifiers.
+
+// let firstName;
+
+// let lastName;
+
+// let Address;
+
+// let City;
+
+// let State;
+
+// let zipCode;
+
+// let yourAge;
+
+// let referralSource;
+
+// let mayweContactyou; //Not sure if this is correct.
