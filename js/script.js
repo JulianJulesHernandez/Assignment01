@@ -49,4 +49,9 @@
 
 // let referralSource;
 
-// let mayweContactyou; //Not sure if this is correct.
+// let mayWeContactYou; 
+
+// STEP 5 Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to 
+//those variables.
+
+let firstName = 'Julian'; let lastName = 'Hernandez' 
