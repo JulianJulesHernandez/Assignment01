@@ -54,4 +54,18 @@
 // STEP 5 Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to 
 //those variables.
 
-let firstName = 'Julian'; let lastName = 'Hernandez' 
+// let firstName;
+// let lastName;
+// let yourAge;
+// firstName = 'Julian';
+// lastName = 'Hernanadez';
+// yourAge = '44';
+
+// let firstName = 'Julian';
+// let lastName = 'Hernandez';
+// let yourAge = '44'
+
+// let firstName = 'Julian', lastName = 'Hernandez', yourAge = '44';
+
+
+
