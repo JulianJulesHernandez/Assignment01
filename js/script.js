@@ -70,6 +70,5 @@
 // STEP 6 Create a variable. Add a number and a string and display the coerced result in the browser’s console window. 
 
 let firstName = 'Julian';
-let lastName = 'Hernandez';
 
-console.log(firstName,lastName);
+console.log(firstName,44,"says hello");
