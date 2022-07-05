@@ -15,14 +15,16 @@
 // STEP 2 Give me an example of a numeric literal expression, a string literal expression, a Boolean literal expression, and a 
 // null literal expression.
 
-// 9.5
+// 9.5;
 
-// 'Goodbye'
+// 'Goodbye';
 
-// true
+// true;
 
-// null
+// null;
 
+// STEP 3 Give me two examples of complex / variable expressions.
 
+// let z = x + y * 9;
 
-
+// let name = "Jules";
