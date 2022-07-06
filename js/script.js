@@ -69,6 +69,28 @@
 
 // STEP 6 Create a variable. Add a number and a string and display the coerced result in the browser’s console window. 
 
-let firstName = 'Julian';
+// let firstName = 'Julian';
 
-console.log(firstName,44,"says hello");
+// console.log(firstName,44,'says hello');
+
+// Step 7 Create two variables. For the first variable, add a Boolean and a string and display the coerced result. 
+// For the second variable, add a number and a Boolean and display the coerced result. 
+
+// let num1 = '20';
+
+// let num2 = 22;
+
+// console.log(num1 + 0 + '99'); 
+
+// console.log(num2 + 99 + 0);
+
+// Step 8 Is the following string literal valid? If not, how would you fix it?
+
+// Note: I am not sure if I understood step 7 correctly.  I know that boolean is either true or false, 1 or 0.
+// I did understand the concept of implicit coercion .The first variable console ouput was coerced into
+// a string and no addition was completed because if you add a Boolean and a string, the Boolean is coerced to
+// a string automatically by the javaScript program . In the second variable console output, addition was performed 
+// because if you add a number and a Boolean, the Boolean is coerced into a number by javaScript
+
+// Step 9 
+
